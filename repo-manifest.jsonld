@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/pg-sprite/commit/3d7e004f03336bd914a19651245ecad867f690f5",
       "git:hexsha": "3d7e004f03336bd914a19651245ecad867f690f5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
