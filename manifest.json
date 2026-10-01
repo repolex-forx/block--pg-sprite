@@ -1169,7 +1169,9 @@
           "githubUrl": "https://github.com/open-telemetry/opentelemetry-go",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3d7e004f03336bd914a19651245ecad867f690f5/chunk-001.nq.gz",
+      "dep": "dep/3d7e004f03336bd914a19651245ecad867f690f5.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

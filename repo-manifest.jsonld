@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/pg-sprite/commit/3d7e004f03336bd914a19651245ecad867f690f5",
       "git:hexsha": "3d7e004f03336bd914a19651245ecad867f690f5",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T08:38:12.337428+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/pg-sprite/commit/7058fb11d06e42380c294fa7b3736b38feb104b7",
