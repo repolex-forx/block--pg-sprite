@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "pg-sprite",
+  "versions": [
+    {
+      "commit": "3d7e004f03336bd914a19651245ecad867f690f5",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:38:12.339996+00:00"
+    }
+  ]
+}
